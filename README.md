@@ -4,13 +4,25 @@
 
 A comprehensive platform for discovering and booking exceptional event venues, hotels, and meeting spaces across the Philippines. Built with React, TypeScript, and Tailwind CSS.
 
+This project is part of Bolt hackathon 2025 [https://bolt.new]
+
 ## 🌟 Features
 
 ### 🏢 **Multi-User Platform**
 - **Clients** - Browse and book venues for events
 - **Space Providers** - List and manage properties
 - **Event Vendors** - Offer services (catering, photography, etc.)
-- **Sponsors** - Partner with events and venues
+- **Sponsors** - Partner with events and venues, open to sponsorships, beverage, vendors, other technology providers§  
+- **Event Organizers** - Manage events and bookings
+- **Venue Managers** - Update venue details and availability
+- **Event Planners** - Plan and coordinate events
+- **Event Attendees** - View event details and RSVP
+- **Event Hosts** - Create and manage events
+- **Event Coordinators** - Assist in event logistics
+- **Event Sponsors** - Promote events and venues
+- **Event Speakers** - Participate in events as speakers
+- **Event Guests** - Attend events and provide feedback
+- **Event Staff** - Assist in event operations
 - **Admins** - Platform management and analytics
 
 ### 🗺️ **Smart Discovery**
@@ -29,16 +41,7 @@ A comprehensive platform for discovering and booking exceptional event venues, h
 
 **Production Site:** [philippines-event-space.netlify.app](https://philippines-event-space.netlify.app)
 
-### Demo Credentials
-Try the platform with these test accounts:
 
-| User Type | Email | Password |
-|-----------|-------|----------|
-| **Client** | `client@example.com` | `password123` |
-| **Space Provider** | `provider@example.com` | `password123` |
-| **Event Vendor** | `vendor@example.com` | `password123` |
-| **Sponsor** | `sponsor@example.com` | `password123` |
-| **Admin** | `admin@venuefinderph.com` | `admin123` |
 
 ## 🏗️ Tech Stack
 
@@ -105,7 +108,10 @@ src/
 - PDF report generation
 - Interactive charts and visualizations
 
-## 🚀 Getting Started
+
+
+
+## 🚀 Development 
 
 ### Prerequisites
 - Node.js 18+ 
@@ -198,7 +204,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is NOT licensed. It is property of the Philippines Travel Company and is intended for use in the Philippine hospitality industry. Unauthorized use or distribution is prohibited.
 
 ## 🙏 Acknowledgments
 
