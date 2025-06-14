@@ -210,9 +210,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **VenueFinder PH Team**
-- 📧 Email: info@venuefinderph.com
+- 📧 Email: philippines.travel.company@gmail.com
 - 🌐 Website: [philippines-event-space.netlify.app](https://philippines-event-space.netlify.app)
-- 📱 Phone: +63 2 8123 4567
 
 ---
 
